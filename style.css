@@ -312,6 +312,7 @@ body{
     height: 100px;
     margin: 0 auto;
     display: flex;
+    justify-content: center;
     align-items: center;
     background-color: rgba(13, 19, 33, 0.03);
     
@@ -322,6 +323,7 @@ body{
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 .social-icons{
     display: flex;
