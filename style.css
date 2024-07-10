@@ -107,6 +107,15 @@ body{
   font-size: 18px;
   font-weight: 600;
 }
+.hero-area-button{
+  width: 208px;
+height: 66px;
+}
+.hero-area-button a button{
+  width: 220px;
+  height: 66px;
+  border: none;
+}
 
 /* why web development section style */
 .why-web {
