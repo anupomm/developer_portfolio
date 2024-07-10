@@ -84,6 +84,7 @@ body{
   font-weight: 800;
   margin-bottom: 24px;
   text-align: center;
+  line-height: 68px;
 }
 .hero-area-contents p {
   color: rgb(13, 19, 33);
@@ -91,6 +92,8 @@ body{
   font-weight: 400;
   opacity: 0.7;
   margin-bottom: 32px;
+  line-height: 26px;
+  text-align: center;
 }
 .hero-area-contents button {
   width: 208px;
@@ -156,11 +159,13 @@ height: 66px;
   color: rgba(13, 19, 33, 0.7);
   font-size: 24px;
   font-weight: 700;
+  line-height: 36px;
 }
 
 .why-web-card-text-contents p {
   margin-top: 16px;
   margin-bottom: 32px;
+  line-height: 26px;
 }
 
 /* my inspiration section style */
