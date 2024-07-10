@@ -249,7 +249,7 @@ body{
   width: 1140px;
   height: 313px;
   margin: 0 auto;
-  background-image: url(../assets/handshake.jpg),
+  background-image: url(assets/handshake.jpg),
     linear-gradient(rgba(96, 92, 92, 0.7), rgba(50, 46, 46, 0.9));
   background-blend-mode: overlay;
   background-repeat: no-repeat;
